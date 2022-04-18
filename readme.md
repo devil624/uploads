@@ -1,5 +1,5 @@
 ### add your own bgms
-*
+
 - fork this repo and pinky repo <br>
 - add your bgm in mp3 format to media file <br>
 - add exact name in bgmlist array <br> ```eg: ['plk','afn']``` <br>
