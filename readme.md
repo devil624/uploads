@@ -13,4 +13,10 @@
 *rename you bgm to mention.mp3 <br>
 *upload it into media folder <br>
 <br>
+
+###
+*for more detailed help refer
+- [ ]yt : https://www.youtube.com/watch?v=0AT-eKsgqbU
+- [ ]web page : https://pinky32.weebly.com/
+
 ### thank you for you love and support
